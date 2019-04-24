@@ -1,5 +1,5 @@
 {
-    "name": "smartins/passport-multiauth",
+    "name": "erblinbobaj/passport-multiauth",
     "description": "Add support to multi-auth on Laravel Passport",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.1",
-        "laravel/passport": "^5.0|^6.0|^7.0"
+        "erblinbobaj/passport": "^5.0|^6.0|^7.0"
     },
     "require-dev": {
         "orchestra/testbench": "~3.7",
