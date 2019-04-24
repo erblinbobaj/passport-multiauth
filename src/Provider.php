@@ -2,7 +2,7 @@
 
 namespace SMartins\PassportMultiauth;
 
-use Illuminate\Database\Eloquent\Model;
+use Eloquent as Model;
 
 /**
  * @property string $provider The provider related with access token
