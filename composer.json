@@ -14,7 +14,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.1",
-        "erblinbobaj/passport": "^5.0|^6.0|^7.0"
+        "erblinbobaj/passport": "^8.0.x-dev"
     },
     "require-dev": {
         "orchestra/testbench": "~3.7",
